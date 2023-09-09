@@ -6,6 +6,7 @@
 <script setup lang="ts">
 for (let i = 0; i < 100; i++) {
   console.log(i)
+  console.log('123')
 }
 </script>
 <style scoped lang="scss">
